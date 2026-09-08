@@ -90,7 +90,7 @@ All paid tiers are optional.
 
 | Product | Description |
 |---|---|
-| ⭐ **Premium Lifetime** | All Premium features permanently. Removes ads. Lifetime badge + exclusive app icons. |
+| ⭐ **Premium Lifetime** | All Premium features permanently. Lifetime badge + exclusive app icons. |
 | 🚫 **Remove Ads** | Removes all advertising permanently. One-time purchase. |
 
 ### Subscriptions
@@ -98,7 +98,6 @@ All paid tiers are optional.
 | Product | Benefits |
 |---|---|
 | 🏆 **Supporter Monthly** | Removes all ads · Custom app icons · Supporter badge |
-| 🏆 **Supporter Yearly** | Removes all ads · Custom app icons · Supporter badge · Best value |
 
 > Prices, taxes, and availability are displayed by Google Play before purchase.
 
@@ -111,7 +110,7 @@ Cute Calendar is built with **privacy as a core principle:**
 | | |
 |---|---|
 | 📢 | Google AdMob advertising shown to free users (GDPR consent required) |
-| ✅ | Premium / Supporter / Remove Ads removes all advertising permanently |
+| ✅ | Supporter / Remove Ads removes all advertising permanently |
 | ✅ | All events and preferences stored **locally on your device** |
 | ❌ | No cloud sync or developer-operated backup server |
 | ❌ | No analytics or crash-reporting SDKs |
