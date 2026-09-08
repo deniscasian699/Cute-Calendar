@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🐛 Bug Reports & Support
+    url: https://bugs.deniscasian.com
+    about: For the fastest response, please use our support website.
+  - name: 📧 Email Support
+    url: mailto:support@deniscasian.com
+    about: For purchase issues, privacy questions, and direct contact.
+  - name: 🔒 Security Vulnerabilities
+    url: mailto:support@deniscasian.com
+    about: Please report security issues privately by email.
