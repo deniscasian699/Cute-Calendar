@@ -75,6 +75,7 @@ Both widgets auto-update at midnight and refresh on event changes.
 ### 👑 Premium Features
 - Week numbers in calendar grid
 - All 12 color categories
+- Change app primary color
 - Remove all advertising
 - Custom app icons
 - Priority support
