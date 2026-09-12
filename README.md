@@ -24,7 +24,7 @@ Clean. Fast. Free with optional Premium and ad-free Supporter tiers.
 <img src="assets/screenshots/screen3.png" width="180" />
 <img src="assets/screenshots/screen4.png" width="180" />
 <img src="assets/screenshots/screen5.png" width="180" />
-
+<img src="assets/screenshots/screen6.png" width="180" />
 </div>
 
 ---
