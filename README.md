@@ -172,3 +172,4 @@ Made with 💜 for everyone who loves a clean, organised life.
 *© 2026 Cute Calendar. All rights reserved.*
 
 </div>
+
